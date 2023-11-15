@@ -1,2 +1,3 @@
 # Odin-git-test
-I'm trying to learn goit commands from Odin. 
+Hello everyone. I'm trying to learn git and github.
+THe Odin project is very fun. 

@@ -1,0 +1,4 @@
+Hello World !
+This is my first GitHub repo. 
+I am very happy to get to do what I'm doing right now. 
+I hope that I can get very proficient at this. 
